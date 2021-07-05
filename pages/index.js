@@ -2,8 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import Head from "next/head";
-import Tutorial from "../components/tutorial";
-
+import Tutorial from "../components/Tutorial";
 
 export default function Home({ tutorials }) {
 	return (
