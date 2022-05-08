@@ -2,6 +2,8 @@
 
 Here is a portal of my current coffee websites. The robots come from [RoboHash](https://robohash.org/).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1e836d78-9a5d-4315-95fc-432f872b7f73/deploy-status)](https://app.netlify.com/sites/zen-visvesvaraya-01067e/deploys)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
