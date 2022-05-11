@@ -27,4 +27,10 @@ export const sites = [
 		description: "Data for the Meetup group from 2006-2020.",
 		image: "https://source.unsplash.com/random/400x400",
 	},
+	{
+		id: 5,
+		name: "Coffee Blog Posts",
+		url: "https://criticalmas.org/category/coffee/",
+		description: "Coffee posts on my blog CriticalMAS.",
+	},
 ];
